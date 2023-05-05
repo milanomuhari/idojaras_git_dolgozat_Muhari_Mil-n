@@ -57,3 +57,6 @@ input
 	width: 60%;
 	background-color: rgba(255, 255, 255, 0.7);
   }
+  h1,h2{
+	background-color: #243f84;
+  }
