@@ -67,3 +67,10 @@ input
   td {
 	padding: 0;
   }
+  .szurke{
+	font-size: small;
+	text-align: center;
+	color: #808183;
+	font-weight: bold;
+	text-decoration: none;
+  }
