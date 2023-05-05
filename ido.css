@@ -77,7 +77,11 @@ input
   li{
 	list-style-image: url(nap.png);
 	margin-left: 10%;}
-	dt{
+dt{
 		color: #243f84 ;
 		text-decoration: underline;
+	}
+#fel{
+		width: 5%;
+		float: right;
 	}
