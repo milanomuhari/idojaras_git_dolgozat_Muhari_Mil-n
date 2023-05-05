@@ -28,6 +28,7 @@ p
 table
 {
 	border:outset;
+	text-align: center;
 }
 
 hr
@@ -60,4 +61,7 @@ input
   h1,h2{
 	color: #243f84;
 	font-weight: bold;
+  }
+  td {
+	padding: 0;
   }
